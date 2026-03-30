@@ -1,0 +1,8 @@
+export { Dashboard } from './Dashboard'
+export { Pessoas } from './Pessoas'
+export { Processos } from './Processos'
+export { DetalheProcesso } from './DetalheProcesso'
+export { Configuracoes } from './Configuracoes'
+export { Vendas } from './Vendas'
+export { Eventos } from './Eventos'
+export { Relatorios } from './Relatorios'

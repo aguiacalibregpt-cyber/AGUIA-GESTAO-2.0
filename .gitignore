@@ -1,0 +1,14 @@
+node_modules
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+.DS_Store
+.dist
+/build
+/dist
+/.tauri
+/src-tauri/target
+src-tauri/Cargo.lock
+.idea
+.vscode
+server/data/db.json
